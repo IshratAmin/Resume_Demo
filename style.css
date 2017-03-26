@@ -1,0 +1,17 @@
+.heading{
+	text-align:center;
+	color:white;
+	background:grey;
+}
+
+.text{
+	text-align:left;
+	color:white;
+	background:grey;
+}
+
+body{
+	margin: 0;
+	background: url(bricks.jpg);
+	background-size: cover;
+	}
